@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-Meu nome é Gustavo Fucítalo, sou um estudante na TI.
+Meu nome é Gustavo Fucítalo, tenho 27 anos e sou um estudante na TI.
 
 Minha formação:
 Segurança da Informação (5/5),
