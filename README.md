@@ -13,6 +13,15 @@ Atualmente programo em javascript mas busco sempre aprender novas tecnologias.
 Para me contatar me siga no [Linkedin](https://www.linkedin.com/in/gustavo-fuc%C3%ADtalo-6b93a724b/) 
 email: fucitalo99@gmail.com
 
+##
+
+## Ferramentas e Tecnologia
+  - HTML, CSS, REACT, Javascript (nodejs)
+  - Postgresql
+  - Postman
+
+##
+
 Fun Facts:
   - Hobbies: Musculação, Guitarra/Violão
   - Two and a Half Men e Supernatural são as melhores series!
