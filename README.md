@@ -18,9 +18,7 @@ email: fucitalo99@gmail.com
   - Postgresql
   - Postman
 
-##
-
-Fun Facts:
+# Fun Facts:
   - Hobbies: Musculação, Guitarra/Violão
   - Two and a Half Men e Supernatural são as melhores series!
 <!--
