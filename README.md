@@ -1,5 +1,21 @@
-## Hi there 👋
+## Olá! 👋
 
+Meu nome é Gustavo Fucítalo, sou um estudante na TI.
+
+Minha formação:
+Segurança da Informação (5/5),
+Análise e Desenvolvimento de Sistemas (1/4).
+
+Busco minha primeira oportunidade de emprego como dev!
+
+Atualmente programo em javascript mas busco sempre aprender novas tecnologias.
+
+Para me contatar me siga no [Linkedin](https://www.linkedin.com/in/gustavo-fuc%C3%ADtalo-6b93a724b/) 
+email: fucitalo99@gmail.com
+
+Fun Facts:
+  - Hobbies: Musculação, Guitarra/Violão
+  - Two and a Half Men e Supernatural são as melhores series!
 <!--
 **GustavoFucitalo/GustavoFucitalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
