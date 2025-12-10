@@ -15,7 +15,7 @@ email: fucitalo99@gmail.com
 
 ##
 
-## Ferramentas e Tecnologia
+# Ferramentas e Tecnologia
   - HTML, CSS, REACT, Javascript (nodejs)
   - Postgresql
   - Postman
