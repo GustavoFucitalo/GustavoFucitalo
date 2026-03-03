@@ -4,7 +4,7 @@ Meu nome é Gustavo Fucítalo, tenho 27 anos e sou um estudante na TI.
 
 Minha formação:
 Segurança da Informação (5/5),
-Análise e Desenvolvimento de Sistemas (1/4).
+Análise e Desenvolvimento de Sistemas (1/5).
 
 Busco minha primeira oportunidade de emprego como dev!
 
